@@ -2,6 +2,8 @@
 
 A frontend-only React application that displays real-time cryptocurrency prices using the CoinGecko public API. Built with React and Vite — no backend, no dependencies beyond React itself.
 
+[**🌐 Live Demo**](https://coin-pulse-six.vercel.app/)
+
 ---
 
 ## 📸 Screenshots
