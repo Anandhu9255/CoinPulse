@@ -4,11 +4,13 @@ A frontend-only React application that displays real-time cryptocurrency prices 
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshots
 
-![CoinPulse Preview](assets/preview1.png,preview2.png,preview3.png)
-
-> _Add your screenshot here — see instructions above_
+<p align="center">
+  <img src="src/assets/preview1.png" width="30%" />
+  <img src="src/assets/preview2.png" width="30%" /> 
+  <img src="src/assets/preview3.png" width="30%" />
+</p>
 
 ---
 
